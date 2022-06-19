@@ -1,1 +1,1 @@
-# multithreading-homework6_2
+# Кадастровый помощник
